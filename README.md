@@ -19,12 +19,18 @@ scoreboard.py: Contains the Score class that tracks and displays the player's sc
 
 ## How to Play
 Use the arrow keys to control the direction of the snake:
+
 Up Arrow: Move up
+
 Down Arrow: Move down
+
 Left Arrow: Move left
+
 Right Arrow: Move right
+
 The snake will move continuously, and your objective is to eat the food that appears on the screen.
 Each time the snake eats food, it grows longer, and the score increases.
+
 The game will reset if:
 The snake hits the wall.
 The snake collides with its own body.
