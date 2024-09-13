@@ -10,8 +10,11 @@ Game resets upon collision with walls or snake’s own body.
 
 ## Project Structure
 main.py: The main script that runs the game.
+
 snake.py: Contains the Snake class responsible for the snake's movement and behavior.
+
 food.py: Contains the Food class that generates and refreshes the food.
+
 scoreboard.py: Contains the Score class that tracks and displays the player's score.
 
 ## How to Play
